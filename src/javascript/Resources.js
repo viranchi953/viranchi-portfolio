@@ -144,12 +144,12 @@ export default class Resources extends EventEmitter
 
 
 
-            { name: 'projectsLuniFloor', source: './models/projects/luni/text.png', type: 'texture' },
-            { name: 'projectsBonhomme10ansFloor', source: './models/projects/bonhomme10ans/Text.png', type: 'texture' },
+            { name: 'projectsLuniFloor', source: './models/projects/luni/text.webp', type: 'texture' },
+            { name: 'projectsBonhomme10ansFloor', source: './models/projects/bonhomme10ans/Text.webp', type: 'texture' },
             { name: 'projectsThreejsJourneyFloor', source: './models/projects/threejsJourney/floorTexture.webp', type: 'texture' },
-            { name: 'projectsMadboxFloor', source: './models/projects/madbox/floorTexture.png', type: 'texture' },
+            { name: 'projectsMadboxFloor', source: './models/projects/madbox/floorTexture.webp', type: 'texture' },
             { name: 'projectsScoutFloor', source: './models/projects/scout/floorTexture.png', type: 'texture' },
-            { name: 'projectsChartogneFloor', source: './models/projects/chartogne/floorTexture.png', type: 'texture' },
+            { name: 'projectsChartogneFloor', source: './models/projects/chartogne/floorTexture.webp', type: 'texture' },
             // { name: 'projectsZenlyFloor', source: './models/projects/zenly/floorTexture.png', type: 'texture' },
             { name: 'projectsCitrixRedbullFloor', source: './models/projects/citrixRedbull/floorTexture.png', type: 'texture' },
             { name: 'projectsPriorHoldingsFloor', source: './models/projects/priorHoldings/floorTexture.png', type: 'texture' },

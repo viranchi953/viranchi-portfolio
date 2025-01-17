@@ -100,10 +100,10 @@ export default class ProjectsSection
                 name: 'growcode',
                 imageSources:
                 [
-                    './models/projects/chartogne/slideA.jpg',
-                    './models/projects/chartogne/slideB.jpg',
-                    './models/projects/chartogne/slideC.jpg',
-                    './models/projects/chartogne/slideD.jpeg'
+                    './models/projects/chartogne/slideA.webp',
+                    './models/projects/chartogne/slideB.webp',
+                    './models/projects/chartogne/slideC.webp',
+                    './models/projects/chartogne/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsChartogneFloorTexture,
                 link:
@@ -129,10 +129,10 @@ export default class ProjectsSection
                 name: 'KSP Datathon 2024',
                 imageSources:
                 [
-                    './models/projects/bonhomme10ans/slideA.png',
-                    './models/projects/bonhomme10ans/slideB.jpeg',
-                    './models/projects/bonhomme10ans/slideC.jpeg',
-                    './models/projects/bonhomme10ans/slideD.png'
+                    './models/projects/bonhomme10ans/slideA.webp',
+                    './models/projects/bonhomme10ans/slideB.webp',
+                    './models/projects/bonhomme10ans/slideC.webp',
+                    './models/projects/bonhomme10ans/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsBonhomme10ansFloorTexture,
                 link:
@@ -155,10 +155,10 @@ export default class ProjectsSection
                 name: 'Eyantra',
                 imageSources:
                 [
-                    './models/projects/luni/slideA.jpeg',
-                    './models/projects/luni/slideB.png',
-                    './models/projects/luni/slideC.jpeg',
-                    './models/projects/luni/slideD.jpeg'
+                    './models/projects/luni/slideA.webp',
+                    './models/projects/luni/slideB.webp',
+                    './models/projects/luni/slideC.webp',
+                    './models/projects/luni/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsLuniFloorTexture,
                 link:
@@ -181,10 +181,10 @@ export default class ProjectsSection
                 name: 'GeoGuide',
                 imageSources:
                 [
-                    './models/projects/madbox/slideA.png',
-                    './models/projects/madbox/slideB.jpg',
-                    './models/projects/madbox/slideC.png',
-                    './models/projects/madbox/slideD.png'
+                    './models/projects/madbox/slideA.webp',
+                    './models/projects/madbox/slideB.webp',
+                    './models/projects/madbox/slideC.webp',
+                    './models/projects/madbox/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
